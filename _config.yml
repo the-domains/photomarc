@@ -1,7 +1,7 @@
 name: photomarc
 favicon: null
-layout_spectrum: 0.06903343368321657
-typography_spectrum: 0.5523501462303102
+layout_spectrum: 0.59768
+typography_spectrum: 0.43194
 title: "Marc's Photos"
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#e6eef8'
+    - '#a2bcd3'
+    - '#50392c'
+    - '#5b7591'
+    - '#000000'
   brandStrength: 0.8850629886146635
   lightness: 0.7739126875530928
   saturation: 0.9137552094180137
