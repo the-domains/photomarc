@@ -4,7 +4,7 @@
         <description><![CDATA[Marc's Photos]]></description>
         <link>https://thegrid.ai/photomarc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 23:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 23:06:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photomarc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Oxford Circus]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/photomarc/oxford-circus/index.html</link>
             <guid isPermaLink="false">7d53eb00-ea8c-4d7f-9fcc-994e3b909243</guid>
             <pubDate>Tue, 15 Dec 2015 22:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charles Bridge]]></title>
+            <description><![CDATA[<article><h1>Charles Bridge</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34dffb597a9516f709b7dc72b9f2ca313a3a277e.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/marcs-album/21001952149/in/datetaken-public/</link>
+            <guid isPermaLink="false">5298e7b6-6158-47e7-91f9-9339d5f5939d</guid>
+            <pubDate>Tue, 15 Dec 2015 23:05:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Underpass]]></title>
