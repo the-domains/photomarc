@@ -4,7 +4,7 @@
         <description><![CDATA[Marc's Photos]]></description>
         <link>https://thegrid.ai/photomarc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 23:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 23:10:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photomarc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Oxford Circus]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/photomarc/oxford-circus/index.html</link>
             <guid isPermaLink="false">7d53eb00-ea8c-4d7f-9fcc-994e3b909243</guid>
             <pubDate>Tue, 15 Dec 2015 22:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Recife]]></title>
+            <description><![CDATA[<article><h1>Recife</h1><img src="https://farm8.staticflickr.com/7494/16167211015_f9281a05cf_b.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/marcs-album/16167211015/in/datetaken-public/</link>
+            <guid isPermaLink="false">4a9be16f-7e4c-4b80-91e4-065010530a10</guid>
+            <pubDate>Tue, 15 Dec 2015 23:09:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boa Viagem Beach]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Kew Tulips</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a2d5f75d3e9d8ff47133a8cc1a7d86e967034cb.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/marcs-album/18832881862/in/datetaken-public/</link>
             <guid isPermaLink="false">03bb19de-0792-4c79-8f1f-681273c86fc1</guid>
-            <pubDate>Tue, 15 Dec 2015 23:05:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Charles Bridge]]></title>
-            <description><![CDATA[<article><h1>Charles Bridge</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/830141a8cd7d6bff9900f53b28c5d4545fed7b13.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/marcs-album/21001952149/in/datetaken-public/</link>
-            <guid isPermaLink="false">5298e7b6-6158-47e7-91f9-9339d5f5939d</guid>
             <pubDate>Tue, 15 Dec 2015 23:05:23 GMT</pubDate>
         </item>
     </channel>
