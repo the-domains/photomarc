@@ -2,6 +2,7 @@ name: photomarc
 favicon: null
 layout_spectrum: 0.06903343368321657
 typography_spectrum: 0.5523501462303102
+title: "Marc's Photos"
 cta:
   domain: null
   bucket: null
