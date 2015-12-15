@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.flickr.com/photos/marcs-album/12544055003/in/datetaken-public/'
 inLanguage: null
 starred: false
 keywords: []
 description: "On Friday night I photographed Brian playing at the piano bar, and tonight I got to attend the concert they'd put together here in London, with local talent singing their words and music. Brian played for most of the night, and he and Kait even sang a few numbers, but mostly it was them talking, and British artists singing, including the lovely Daniel Boys.  I was delighted at the song choice tonight, I got to hear some of my favourites. Was a really fun night, and great again to have a drink with Brian and Kait afterwards. This is the post description."
-datePublished: '2015-12-15T23:23:32.149Z'
-dateModified: '2015-12-15T23:23:25.858Z'
+datePublished: '2015-12-15T23:26:37.151Z'
+dateModified: '2015-12-15T23:26:31.381Z'
 author:
   - name: marcusjroberts
     url: 'https://www.flickr.com/photos/marcs-album/'
@@ -28,6 +27,7 @@ publisher:
   domain: www.flickr.com
   url: 'https://www.flickr.com/'
   favicon: 'https://www.flickr.com/favicon.ico'
+url: daniel-boys/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
