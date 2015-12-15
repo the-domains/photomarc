@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: One of my favourite London photos; a long-exposure of Oxford Circus.
-datePublished: '2015-12-15T18:49:06.871Z'
-dateModified: '2015-12-15T18:48:37.412Z'
+datePublished: '2015-12-15T22:47:44.436Z'
+dateModified: '2015-12-15T18:53:00.104Z'
 title: Oxford Circus
 author: []
+sourcePath: _posts/2015-12-15-oxford-circus.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-15-oxford-circus.md
-published: true
 url: oxford-circus/index.html
 _type: Article
 
