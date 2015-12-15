@@ -4,14 +4,21 @@
         <description><![CDATA[Marc's Photos]]></description>
         <link>https://thegrid.ai/photomarc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 22:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 23:00:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photomarc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Oxford Circus]]></title>
-            <description><![CDATA[<article><h1>Oxford Circus</h1><p>One of my favourite London photos; a long-exposure of Oxford Circus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c354f209b192bb7a0bb357d4c18e5a5174614581.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Oxford Circus</h1><p>One of my favourite London photos; a long-exposure of Oxford Circus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70d3b851bcb154a7c565b06eaea19670299187d0.jpg"></article>]]></description>
             <link>https://thegrid.ai/photomarc/oxford-circus/index.html</link>
             <guid isPermaLink="false">7d53eb00-ea8c-4d7f-9fcc-994e3b909243</guid>
             <pubDate>Tue, 15 Dec 2015 22:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London Streets]]></title>
+            <description><![CDATA[<article><h1>London Streets</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/288136eec19b79ff2fa1bc36fc6588485a6f72c0.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/marcs-album/22271145152/in/datetaken-public/</link>
+            <guid isPermaLink="false">b0de2b1c-0129-45ce-a75b-b8db199dd8c3</guid>
+            <pubDate>Tue, 15 Dec 2015 23:00:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belsize Park]]></title>
